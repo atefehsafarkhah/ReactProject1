@@ -1,0 +1,8 @@
+#footerDiv
+{
+	position:fixed;
+	top:auto;
+	max-width: 80%; 
+
+  height: 5%;
+}

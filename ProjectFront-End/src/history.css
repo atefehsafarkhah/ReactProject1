@@ -1,0 +1,13 @@
+#cardsContainer > *
+{
+  display:block;
+  max-width: 200px;
+  margin: 5px;
+}
+
+#cardsContainer{
+  display: flex;
+  padding:1%;
+}
+
+

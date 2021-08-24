@@ -1,0 +1,18 @@
+#lineChartContainer{
+	max-width: 100%;
+	width:100%;
+	display:flex;
+}
+.extendedTd{
+	white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	max-width:70px;
+	max-height: auto;
+	background-color: rgba(0,0,0,0);
+}
+
+
+#networkChart{
+	height: 500px;
+}

@@ -1,0 +1,13 @@
+#headerDiv
+{
+	max-width: 100%;
+  box-shadow: 1px 1px 2px rgb(255,136,15), 0 0 75px rgb(255,136,15), 0 0 5px rgb(14,13,13);
+  height: 5%;
+  padding:1px;
+}
+#headerDiv h2{
+	color: rgb(255,136,15);
+  	text-shadow: 1px 1px 5px rgb(10,10,10), 0 0 5px rgb(17,17,16), 0 0 5px rgb(14,13,13);
+  	text-align: center;
+  	
+}
