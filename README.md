@@ -8,7 +8,7 @@ We downloaded our dataset from StackExchange API. this api has a limited access 
 
 We made dataset clean using NLTK toolkit and created our features using TF-IDF vectorizer. Then we create a Multi-label Classification model in order to solve this problem.
 
-## Architecture
+## Architecture a
 This project is using **React** as Front-End framework and **flask** as back end framework.
 
 The back-end will starts automatically at port 5000 and front-end starts at port 3000.
